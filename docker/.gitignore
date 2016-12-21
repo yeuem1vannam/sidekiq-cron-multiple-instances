@@ -1,0 +1,7 @@
+# Ignore RubyMine config
+/.idea
+.DS_Store
+
+database
+ssh-config/*.pem
+ssh-config/id_rsa*

@@ -1,0 +1,4 @@
+time_report_job:
+  cron: "* * * * *"
+  class: "HardWorker"
+  queue: hard_worker
